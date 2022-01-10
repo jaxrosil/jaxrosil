@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on automations with python.
-- 🌱 I’m currently learning Django framework.
+- 🌱 I’m currently learning Django and Flask frameworks.
 - 👯 I’m looking to collaborate on creating public APIs.
 - 🤔 I’m looking for help with not accidentally publishing sensitive data on my repositories.
 - 💬 Ask me about the best way to get started with your studies on python.
