@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with automations with python.
-- 🌱 I’m currently learning Machine Learning with python .
+- 🌱 I’m currently learning Machine Learning with python.
 - 👯 I’m looking to collaborate on creating public APIs.
 - 🤔 I’m looking for help with not accidentally publishing sensitive data on my repositories.
 - 💬 Ask me about the best way to get started with your studies on python.
