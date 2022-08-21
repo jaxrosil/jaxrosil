@@ -1,9 +1,9 @@
 ### Welcome to my faults snitch
 
 
-- 🔭 I’m currently working with automations with python.
+- 🔭 I’m currently working with data science with python.
 - 🌱 I’m currently learning Machine Learning with python.
-- 👯 I’m looking to collaborate on creating public APIs.
+- 👯 I’m looking to collaborate on nice infographs and dashboards.
 - 🤔 I’m looking for help with not accidentally publishing sensitive data on my repositories.
 - 💬 Ask me about the best way to get started with your studies on python.
 - 😄 Pronouns: he/him.
