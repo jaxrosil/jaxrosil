@@ -1,4 +1,4 @@
-### Welcome to my faults' snitch
+### Welcome to my faults snitch
 
 
 - 🔭 I’m currently working with data science with python.
