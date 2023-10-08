@@ -1,10 +1,10 @@
 ### Welcome to my faults' snitch
 
 
-- 🔭 I’m currently working with data science with python.
-- 🌱 I’m currently learning Machine Learning with python.
-- 👯 I’m looking to collaborate on datathons.
-- 🤔 I’m looking for help with not accidentally publishing sensitive data on my repositories.
+- 🔭 I’m currently a Data Science undergraduate at Mackenzie.
+- 🌱 I’m currently writing my first code snippets on Machine Learning.
+- 👯 I’m hoping to attend my first datathon soon.
+- 🤔 I’m always looking for help with not accidentally publishing sensitive data on my repositories.
 - 💬 Ask me about the best way to get started with your studies on python.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: despite being a programmer, I hate coffee.
