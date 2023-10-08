@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently a Data Science undergraduate at Mackenzie.
-- 🌱 I’m currently writing my first code snippets on Machine Learning.
-- 👯 I’m hoping to attend my first datathon soon.
+- 🌱 I’m writing my first code snippets on Machine Learning.
+- 👯 I’m in hopes of attending my first datathon soon.
 - 🤔 I’m always looking for help with not accidentally publishing sensitive data on my repositories.
 - 💬 Ask me about the best way to get started with your studies on python.
 - 😄 Pronouns: he/him.
