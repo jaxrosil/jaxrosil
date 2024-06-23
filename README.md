@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently a Data Science undergraduate at Mackenzie.
-- 🌱 I’m writing my first code snippets on Machine Learning.
+- 🌱 I am a lifelong learner of machine learning.
 - 👯 I’m in hopes of attending my first datathon soon.
 - 🤔 I’m always looking for help with not accidentally publishing sensitive data in my repositories.
 - 💬 Ask me about the best way to get started with your studies on python.
