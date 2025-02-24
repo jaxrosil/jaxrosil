@@ -1,7 +1,7 @@
 ### Welcome to my faults' snitch
 
 
-- 🔭 I’m currently a Data Science undergraduate at Mackenzie.
+- 🔭 I’m currently a Data Science undergraduate at Universidade Federal do Mato Grosso do Sul (UFMS).
 - 🌱 I am a lifelong learner of machine learning.
 - 👯 I’m in hopes of attending my first datathon soon.
 - 🤔 I’m always looking for help with not accidentally publishing sensitive data in my repositories.
